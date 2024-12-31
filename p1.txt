@@ -1,5 +1,8 @@
 Suchithra S
+<<<<<<< HEAD
 D/O Suresh
 
 From hosadurga
 Rekha
+=======
+>>>>>>> parent of a5f06cc (new line is added)
